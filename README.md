@@ -75,4 +75,4 @@ yarn run dev
 
 Você pode experimentar o Cineflex diretamente no seu navegador através do seguinte link:
 
-[Link do Deploy no Vercel](https://tracklt-doepcqc3e-yasmim-cabrals-projects.vercel.app)
+[Link do Deploy no Vercel](https://tracklt-delta.vercel.app)
