@@ -51,14 +51,14 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Yasmim-Cabral/tracklt](https://github.com/Yasmim-Cabral/tracklt)
+    git clone https://github.com/Yasmim-Cabral/tracklt
     cd tracklt
     ```
 2.  **Instale as dependências do frontend:**
     ```bash
-    npm install
+    npm install --legacy-peer-deps
     # ou
-    yarn install
+    yarn install --legacy-peer-deps
     ```
 
 ### Execução
@@ -69,3 +69,10 @@ Para iniciar a aplicação:
 npm run dev
 # ou
 yarn run dev
+```
+
+### ⚙️ Como Testar o Projeto
+
+Você pode experimentar o Cineflex diretamente no seu navegador através do seguinte link:
+
+[Link do Deploy no Vercel]()
